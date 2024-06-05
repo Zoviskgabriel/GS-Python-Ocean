@@ -7,7 +7,24 @@
     Joseh Gabriel Trimboli Agra - RM-553094
 
 # Sobre
-
+   
+    Este sistema em Python foi desenvolvido para auxiliar no monitoramento da qualidade da água oceânica, coletando, analisando e armazenando dados de diferentes locais. 
+    
+*Ele serve como uma ferramenta para:*
+        
+        Pesquisadores e Cientistas: Coletar dados precisos e organizados sobre a temperatura, salinidade, pH e níveis de poluição em 
+        diferentes áreas, permitindo a análise de tendências, o estudo de impactos ambientais e a identificação de áreas críticas.
+        
+        Organizações de Monitoramento Ambiental: Registrar dados de qualidade da água de forma eficiente e organizada, facilitando o 
+        acompanhamento da saúde dos oceanos e a detecção de alterações significativas.
+        
+        Grupos de Conservação Marinha: Obter dados para avaliar o impacto da poluição e atividades humanas no ecossistema marinho, contribuindo 
+        para ações de conservação e políticas de proteção ambiental.
+        
+        Educadores: Demonstrar a importância da qualidade da água oceânica e promover o interesse em estudos e ações de monitoramento, utilizando um sistema simples e interativo.
+        
+        Este código, apesar de ser um sistema básico, demonstra o potencial de softwares e ferramentas de código aberto para a pesquisa, o monitoramento e a proteção do meio ambiente. 
+        Ele pode ser adaptado e expandido para atender a necessidades específicas de diferentes usuários e projetos.
 
 
 # Uso do Codigo
