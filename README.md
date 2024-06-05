@@ -8,7 +8,8 @@
 
 # Sobre
    
-    Este sistema em Python foi desenvolvido para auxiliar no monitoramento da qualidade da água oceânica, coletando, analisando e armazenando dados de diferentes locais. 
+    Este sistema em Python foi desenvolvido para auxiliar no monitoramento da qualidade da 
+    água oceânica, coletando, analisando e armazenando dados de diferentes locais. 
     
 *Ele serve como uma ferramenta para:*
         
@@ -18,12 +19,14 @@
         Organizações de Monitoramento Ambiental: Registrar dados de qualidade da água de forma eficiente e organizada, facilitando o 
         acompanhamento da saúde dos oceanos e a detecção de alterações significativas.
         
-        Grupos de Conservação Marinha: Obter dados para avaliar o impacto da poluição e atividades humanas no ecossistema marinho, contribuindo 
-        para ações de conservação e políticas de proteção ambiental.
+        Grupos de Conservação Marinha: Obter dados para avaliar o impacto da poluição e atividades humanas no ecossistema marinho, 
+        contribuindo para ações de conservação e políticas de proteção ambiental.
         
-        Educadores: Demonstrar a importância da qualidade da água oceânica e promover o interesse em estudos e ações de monitoramento, utilizando um sistema simples e interativo.
+        Educadores: Demonstrar a importância da qualidade da água oceânica e promover o interesse em estudos e ações de 
+        monitoramento, utilizando um sistema simples e interativo.
         
-        Este código, apesar de ser um sistema básico, demonstra o potencial de softwares e ferramentas de código aberto para a pesquisa, o monitoramento e a proteção do meio ambiente. 
+        Este código, apesar de ser um sistema básico, demonstra o potencial de softwares e ferramentas de código aberto 
+        para a pesquisa, o monitoramento e a proteção do meio ambiente. 
         Ele pode ser adaptado e expandido para atender a necessidades específicas de diferentes usuários e projetos.
 
 
