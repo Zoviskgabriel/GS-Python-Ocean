@@ -17,16 +17,6 @@
     da água em diferentes locais, analise esses dados (calculando médias e exibindo um gráfico), 
     e salve os dados em um arquivo CSV para análise posterior.
 
-# Funcionalidades do código:
-
-    Variáveis: temp, salinidade, ph, poluicao, dados, df, etc.
-    Tipos de Dados: float para números decimais, str para texto, list para listas de dados, DataFrame para tabelas de dados.
-    Condicionais (if, elif, else): Dentro da função coletar_dados() para verificar se o usuário digitou sair.
-    Loops (while, for): while True na função coletar_dados() para coletar dados até que o usuário digite sair.
-    Manipulação de Listas e Strings: append() para adicionar elementos à lista dados, input() para ler dados do usuário (strings), float() para converter strings para números decimais.
-    Funções: coletar_dados(), analisar_dados(), salvar_dados(), main().
-    Listas: dados para armazenar os dados coletados. 
-    Arquivos: to_csv() para salvar os dados em um arquivo CSV.
 
 *Instruções de uso:*
 
@@ -92,7 +82,7 @@
       analisar_dados(): Realiza cálculos de média e exibe as informações em texto e um gráfico de linha com todas as variáveis.
       salvar_dados(): Permite que o usuário escolha o nome do arquivo e salva os dados em formato CSV.
       main(): Função principal que chama as outras funções em sequência.
-    
+
 # Funcionalidades do código:
 
     Variáveis: temp, salinidade, ph, poluicao, dados, df, etc.
@@ -103,7 +93,6 @@
     Funções: coletar_dados(), analisar_dados(), salvar_dados(), main().
     Listas: dados para armazenar os dados coletados. 
     Arquivos: to_csv() para salvar os dados em um arquivo CSV.
-    
 
 # Video Explicativo
     Link Youtube:
