@@ -105,7 +105,8 @@ Dados salvos em dados_oceanos.csv
       
       Funções:
       
-      coletar_dados(): Coleta os dados do usuário através de input(), valida se a entrada é numérica e organiza os dados em um DataFrame.
+      coletar_dados(): Coleta os dados do usuário através de input(), valida se a entrada é numérica e organiza os 
+      dados em um DataFrame.
       
       analisar_dados(): Realiza cálculos de média e exibe as informações em texto e um gráfico de linha com todas as variáveis.
       
