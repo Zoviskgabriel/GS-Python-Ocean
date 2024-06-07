@@ -68,7 +68,7 @@ O código que criamos é um sistema simples em Python para monitorar a saúde do
       Você encontrará os dados organizados por colunas (Local, Temperatura, Salinidade, pH, Poluição) em linhas separadas.
     
 *Exemplo de Interação:*
-  Entrada de dados:
+     - Entrada de dados:
      - Digite o nome do local (ou 'sair' para finalizar): Baía de Guanabara
      - Digite a temperatura da água (°C): 25.5
      - Digite a salinidade (ppm): 35.2
