@@ -68,20 +68,21 @@ O código que criamos é um sistema simples em Python para monitorar a saúde do
       Você encontrará os dados organizados por colunas (Local, Temperatura, Salinidade, pH, Poluição) em linhas separadas.
     
 *Exemplo de Interação:*
-     - Entrada de dados:
-     - Digite o nome do local (ou 'sair' para finalizar): Baía de Guanabara
-     - Digite a temperatura da água (°C): 25.5
-     - Digite a salinidade (ppm): 35.2
-     - Digite o pH: 8.1
-     - Digite o nível de poluição (ppm): 0.2
-     - Digite o nome do local (ou 'sair' para finalizar): Praia de Copacabana
-     - Digite a temperatura da água (°C): 26.1
-     - Digite a salinidade (ppm): 34.9
-     - Digite o pH: 8.0
-     - Digite o nível de poluição (ppm): 0.1
-     - Digite o nome do local (ou 'sair' para finalizar): sair
+
+          Entrada de dados:
+      Digite o nome do local (ou 'sair' para finalizar): Baía de Guanabara
+      Digite a temperatura da água (°C): 25.5
+      Digite a salinidade (ppm): 35.2
+      Digite o pH: 8.1
+      Digite o nível de poluição (ppm): 0.2
+      Digite o nome do local (ou 'sair' para finalizar): Praia de Copacabana
+      Digite a temperatura da água (°C): 26.1
+      Digite a salinidade (ppm): 34.9
+      Digite o pH: 8.0
+      Digite o nível de poluição (ppm): 0.1
+      Digite o nome do local (ou 'sair' para finalizar): sair
     
-   - Análise dos Dados:
+      - Análise dos Dados:
       - Temperatura média: 25.80 °C
       - Salinidade média: 35.05 ppm
       - pH médio: 8.05
