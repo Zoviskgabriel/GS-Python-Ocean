@@ -30,7 +30,7 @@ Joseh Gabriel Trimboli Agra - RM-553094
 
 ## Uso do Codigo
 
--O código que criamos é um sistema simples em Python para monitorar a saúde dos oceanos. 
+O código que criamos é um sistema simples em Python para monitorar a saúde dos oceanos. 
     Ele permite que você colete dados sobre a temperatura, salinidade, pH e nível de poluição 
     da água em diferentes locais, analise esses dados (calculando médias e exibindo um gráfico), 
     e salve os dados em um arquivo CSV para análise posterior.
@@ -67,8 +67,8 @@ Joseh Gabriel Trimboli Agra - RM-553094
       Abra o arquivo CSV que você acabou de criar.
       Você encontrará os dados organizados por colunas (Local, Temperatura, Salinidade, pH, Poluição) em linhas separadas.
     
-   * Exemplo de Interação:*
-    - Entrada de dados:
+*Exemplo de Interação:*
+  Entrada de dados:
      - Digite o nome do local (ou 'sair' para finalizar): Baía de Guanabara
      - Digite a temperatura da água (°C): 25.5
      - Digite a salinidade (ppm): 35.2
@@ -89,9 +89,9 @@ Joseh Gabriel Trimboli Agra - RM-553094
       
       [Gráfico de linha com os dados]
       
-    - Agora salve os dados obtidos em csv:
-      - Digite o nome do arquivo para salvar (ex: dados_oceanos.csv): dados_oceanos.csv
-      - Dados salvos em dados_oceanos.csv
+Agora salve os dados obtidos em csv:*
+Digite o nome do arquivo para salvar (ex: dados_oceanos.csv): dados_oceanos.csv
+Dados salvos em dados_oceanos.csv
 
 # Explicaçao do código:
  Pandas para manipulação de DataFrames e matplotlib.pyplot para visualização.
